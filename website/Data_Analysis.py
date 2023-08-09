@@ -48,7 +48,7 @@ with st.container():
         st.write("**2. Multiple Linear Regression Model**")
     
         """- **Click on below link to view Visualized Data**"""
-        st.write("[Data Visualization](https://nikhilteja21-data-analysis-websitedata-visualization-mmo6yi.streamlitapp.com/)")
+        st.write("[Data Visualization](https://data-visualization-automotive-industry.streamlit.app/)")
     with right_column :
         st_lottie(lottie_coding2,height=300)
 
