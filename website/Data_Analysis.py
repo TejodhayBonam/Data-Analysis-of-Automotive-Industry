@@ -26,7 +26,7 @@ with st.container():
         st.subheader("Data Analysis on Automotive Industry")
         st.write("")
         st.markdown("""<style>.font {font-size:20px !important;}</style>""", unsafe_allow_html=True)
-        st.markdown('<p class="font">This Website summarises the Challenge of Data Analysis on a sample dataset of Automotive Industry</p>', unsafe_allow_html=True)
+        st.markdown('<p class="font">This website summarizes the Challenge of Data Analysis on an Automotive Industry dataset</p>', unsafe_allow_html=True)
 
 #displaying summary of website
 with st.container():
@@ -56,10 +56,10 @@ with st.container():
 with st.container() :
     st.write("---")
     st.header("My Profile")
-    st.markdown('<p class="font">Name: N.Nikhil Teja</p>', unsafe_allow_html=True)
-    st.markdown('<p class="font">Branch: Computer Science and Engineering</p>', unsafe_allow_html=True)
-    st.markdown('<p class="font">College: Maturi Venkata Subba Rao Enginneering College</p>', unsafe_allow_html=True)
+    st.markdown('<p class="font">Name: Tejodhay Bonam</p>', unsafe_allow_html=True)
+    st.markdown('<p class="font">Branch: Masters in Data Science</p>', unsafe_allow_html=True)
+    st.markdown('<p class="font">Northeastern University</p>', unsafe_allow_html=True)
     st.markdown('<p class="font">LinkedIn profile: </p>', unsafe_allow_html=True)
-    st.write("[Click Here](https://www.linkedin.com/in/nikhilteja2621)")
+    st.write("[Click Here](https://www.linkedin.com/in/tejodhay-bonam-66b3661b0/)")
     st.markdown('<p class="font">Github profile: </p>', unsafe_allow_html=True)
-    st.write("[Click Here](https://github.com/NikhilTeja21)")
+    st.write("[Click Here](https://github.com/TejodhayBonam)")
