@@ -1,7 +1,7 @@
-# Data Analysis on Automotive Industry
-<!--Link : https://nikhilteja21-data-analysis-websitedata-analysis-c7h7o4.streamlitapp.com/ -->
+# Data Analysis and Visualizations on real-world Automotive Industry 
+ Link : https://data-analysis-of-automotive-industry.streamlit.app/
 
-This Website summarises the Challenge of Data Analysis on a sample dataset of Automotive Industry.
+This website summarizes the Challenge of Data Analysis on a sample dataset of Automotive Industry.
 Data was analysed to find out the most popular Car Specification, most popular Car Type and the Power of car based on Fuel Capacity.
 - Models were developed to predict the Future Sales.
 1. Simple Linear Regression Model
